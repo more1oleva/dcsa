@@ -1,0 +1,4 @@
+﻿  Souоrce.cpp
+c1xx : warning C5210: "libhv.lib" не является допустимой ссылкой на блок заголовка; пропускается
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: Поведение расширения макроса, создающего "defined", не определено
+C:\Users\Ольга\source\repos\Project27\Project27\Souоrce.cpp(2,1): fatal error C1083: Не удается открыть файл включение: hv/httpdef.h: No such file or directory,
